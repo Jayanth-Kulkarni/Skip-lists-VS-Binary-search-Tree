@@ -1,3 +1,13 @@
+
+/****************************************************************************
+ Name        : Skip-lists-VS-Binary-search-Tree.c
+ Author      : Jayanth Prakash Kulkarni
+ Copyright   : Copyright Mr Jayanth Prakash Kulkarni © 2015
+ Description : Ansi C
+ ***************************************************************************/
+
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #define MAXLEVEL 10
